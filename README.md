@@ -5,13 +5,9 @@ I'm a frontend software engineer based in Belgium.
 Tech I have used in a professional setting and have the most experience with:
 
 ✔️ Angular
-
 ✔️ TypeScript
-
 ✔️ RxJS
-
 ✔️ NX
-
 ✔️ Docker
 
 Tech I have used in side projects and have experience with:
